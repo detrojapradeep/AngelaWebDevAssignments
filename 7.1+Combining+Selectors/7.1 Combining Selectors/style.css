@@ -1,0 +1,25 @@
+/* Write your code here: */
+
+/* Combination Selector */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* Child Selector */
+.box > p {
+    color: firebrick;
+}
+
+/* Descendendt Selector */
+.list li{
+    color: blue;
+}
+
+li.done {
+    color:green
+}
+
+/* Selector selectorselector */
+ul p.done {
+    font-size: 0.5rem;
+}
